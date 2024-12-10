@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**marceormo/marceormo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Marcela, es un gusto que estés aquí.
 
-Here are some ideas to get you started:
+Sobre mí
+Actualmente cuento con experiencia en servicio al cliente, pero actualmente busco nuevos retos en el campo de la tecnología. Acabo de finalizar el bootcamp de Triplete QA Engineer, lo que me ha permitido ampliar mis conocimientos y habilidades en esta área. Estoy siempre con la "sed" de aprender y crecer profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi LinkedIn www.linkedin.com/in/marcela-ortiz-montoya-142385312.
+
+Lenguajes y Herramientas
+Python
+SQL
+Postman
+Jira
+
