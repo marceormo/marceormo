@@ -1,11 +1,15 @@
 ## Hi there 👋
-![Portada](https://www.linkedin.com/in/marcela-ortiz-montoya/overlay/background-image/)
+![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/7ef7fe74-2394-422d-abc1-7b3a5fbb2cd7)
+
+
 ¡Hola! Soy Marcela, es un gusto que estés aquí.
 
 Sobre mí
 Actualmente cuento con experiencia en servicio al cliente, pero actualmente busco nuevos retos en el campo de la tecnología. Acabo de finalizar el bootcamp de Triplete QA Engineer, lo que me ha permitido ampliar mis conocimientos y habilidades en esta área. Estoy siempre con la "sed" de aprender y crecer profesionalmente.
 
-Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi LinkedIn www.linkedin.com/in/marcela-ortiz-montoya-142385312.
+Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcela-ortiz-montoya)
+
+
 
 ## Lenguajes y Herramientas
 
