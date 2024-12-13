@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Portada](https://www.linkedin.com/in/marcela-ortiz-montoya/overlay/background-image/)
 ¡Hola! Soy Marcela, es un gusto que estés aquí.
 
 Sobre mí
