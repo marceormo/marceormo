@@ -11,14 +11,27 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi [![LinkedI
 
 
 
-## Lenguajes y Herramientas
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Postman-FFA500?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>  </a> 
+   <img decoding="async" src="https://img.shields.io/badge/Android Studio-0, 255, 0?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>  </a> 
+   <img decoding="async" src="https://img.shields.io/badge/Jira-3776AB?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>  </a> 
+   <img decoding="async" src="https://img.shields.io/badge/Selenium-808080?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>  </a>
+  
+<h1>
 
-Aquí te dejo algunas de las tecnologías que utilizo:
+</h1>
+</h1>
 
-| Lenguajes y Herramientas | Iconos |
-|--------------------------|--------|
-| **Python**               | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **SQL**                  | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Postman**              | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| **Jira**                 | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+🔥 MIS ESTADISTICAS
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>
+
+</h1>
