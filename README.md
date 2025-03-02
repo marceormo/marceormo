@@ -5,7 +5,9 @@
 ¡Hola! Soy Marcela, es un gusto que estés aquí.
 
 Sobre mí
-Actualmente cuento con experiencia en servicio al cliente, pero actualmente busco nuevos retos en el campo de la tecnología. Acabo de finalizar el bootcamp de Triplete QA Engineer, lo que me ha permitido ampliar mis conocimientos y habilidades en esta área. Estoy siempre con la "sed" de aprender y crecer profesionalmente.
+Soy Marcela, profesional en Testing y calidad de software con experiencia práctica en pruebas manuales, pruebas móviles y automatización de pruebas usando Python. He trabajado en proyectos donde apliqué mis habilidades para mejorar la calidad de software, desarrollando una sólida comprensión de los procesos involucrados.
+
+Busco una oportunidad en una empresa dinámica donde pueda aplicar mis conocimientos en Testing y QA, contribuir al desarrollo de productos de alta calidad y seguir creciendo profesionalmente.
 
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcela-ortiz-montoya)
 
